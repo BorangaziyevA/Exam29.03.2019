@@ -1,0 +1,4 @@
+Fox clas1 Foxy
+Wolf clas2 Wolfy
+Cat clas3 Garfield
+Dog clas4 Roxy
